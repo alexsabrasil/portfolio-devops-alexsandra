@@ -1,6 +1,10 @@
 # Portfólio DevOps – Alê Tavares
 
-Portfólio profissional desenvolvido em HTML e CSS utilizando Git, GitHub e Gitflow como parte da formação em DevOps.
+Portfólio profissional desenvolvido em HTML5 e CSS3 aplicando Git, GitHub e Gitflow durante a formação em DevOps.
+
+## Objetivo
+
+Demonstrar a aplicação prática do fluxo Gitflow no desenvolvimento incremental de um site de portfólio profissional.
 
 ## Tecnologias
 
@@ -10,7 +14,7 @@ Portfólio profissional desenvolvido em HTML e CSS utilizando Git, GitHub e Gitf
 - GitHub
 - Gitflow
 
-## Fluxo utilizado
+## Fluxo de desenvolvimento
 
 - main
 - develop
@@ -19,6 +23,5 @@ Portfólio profissional desenvolvido em HTML e CSS utilizando Git, GitHub e Gitf
 - Code Review
 - Merge
 
-## Objetivo
+## Estrutura do projeto
 
-Demonstrar a aplicação prática do Gitflow no desenvolvimento de um site de portfólio profissional.
